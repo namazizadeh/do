@@ -2,7 +2,7 @@
 #
 
 VERSION=v4.4.1
-DOWNLOAD_URL=https://github.com
+DOWNLOAD_URL=https://github.com/namazizadeh/do
 
 function install_soft() {
     if command -v dnf &>/dev/null; then
